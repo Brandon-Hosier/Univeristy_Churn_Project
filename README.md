@@ -9,3 +9,5 @@ Regular progress was made throughout the project, including:
 - Exploratory data analysis
 - Model development and comparison
 - Model evaluation and interpretation
+
+Version control was primarily managed locally (via a KANBAN board) during development, a GitHub repository was created in the final stages to present the project artefact and report.
