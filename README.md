@@ -1,13 +1,10 @@
 ## Project Development Process
 
-The project was developed iteratively, starting with data exploration and cleaning, followed by model development and evaluation.
+The project was developed iteratively, progressing through key stages including data cleaning, exploratory data analysis, model development, and evaluation.
 
-Due to the nature of the work being conducted locally in Jupyter Notebook, commits have been structured retrospectively to reflect the development stages of the project.
+Due to the development being carried out primarily in a local Jupyter Notebook environment, version control was managed through a structured Kanban workflow to track progress, task completion, and development stages over time.
 
-Regular progress was made throughout the project, including:
-- Data cleaning and preprocessing
-- Exploratory data analysis
-- Model development and comparison
-- Model evaluation and interpretation
+A GitHub repository was created in the later stages of the project to present the final artefact and supporting documentation. Commits were organised to reflect the major phases of development, providing a clear overview of the project structure.
 
-Version control was primarily managed locally (via a KANBAN board) during development, a GitHub repository was created in the final stages to present the project artefact and report.
+This approach ensured consistent progress tracking and organisation throughout the project lifecycle.
+
